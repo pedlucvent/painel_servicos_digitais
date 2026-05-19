@@ -1,18 +1,36 @@
-# React + Vite
+# Painel de Serviços Digitais
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Integrantes
 
-Currently, two official plugins are available:
+Pedro Lucas  
+Nome do colega
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Descrição
 
-## React Compiler
+Aplicação desenvolvida em React + Vite com foco em exibição de serviços digitais por meio de uma interface moderna e responsiva.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## Tecnologias utilizadas
 
-Note: This will impact Vite dev & build performances.
+- React
+- Vite
+- Lucide React
+- CSS
 
-## Expanding the ESLint configuration
+## Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Header responsivo
+- Banner principal
+- Cards dinâmicos
+- Seção de destaques
+- Footer com contato
+- Interface responsiva
+
+## Como executar
+
+Instalar dependências:
+
+npm install
+
+Executar:
+
+npm run dev
