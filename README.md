@@ -3,7 +3,6 @@
 ## Integrantes
 
 Pedro Lucas  
-Nome do colega
 
 ## Descrição
 
